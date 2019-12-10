@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.tablea,.tableb
+{
+	 border-collapse: collapse;
+	 width:100%;
+	 font-size: 18px;
+	 
+}
+.tablea th,.tableb th
+{
+	 border: 1px solid black;
+	 padding-left: 10px;
+	 padding-right: 10px;
+	 text-align:center;
+	 background-color: #4CAF50;
+     color: white;
+}
+.tablea th,td {
+  border: 1px solid black;
+}
+.table td
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.stu_all
+{
+	background-color: #76D7C4;
+	color:#FDFEFE;
+	text-align: center;
+	height: 100px;
+}
+.wel
+{
+	font-size: 25px;
+	margin-top: 5px;
+	color:#000000;
+	font-weight: bolder;"
+}
+.update
+{
+	background-color: #3498DB;
+	width: 70px;
+	border-radius: 5px;
+	height: 30px
+}
+.delete
+{
+	background-color: red;
+	width: 70px;
+	border-radius: 5px;
+	height: 30px	
+}
+.delete a
+{
+	color: white;
+	text-decoration:none;
+}
+.update a
+{
+	color: white;
+	text-decoration:none;
+}
+.btn
+{
+	background-color: red;
+	border-radius: 5px;
+	height: 40px;
+	width: 70px;
+	margin-left: 20px;
+}
+.btn a
+{
+	color: white;
+	text-decoration:none;
+}

@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding:0;
+}
+.stu_all
+{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	background-color: #76D7C4;
+	color:#FDFEFE;
+	text-decoration:underline; 
+
+}
+.one{
+	//background-color:#E8F8F5;
+	height: 100%;
+}
+.Registration
+{
+	text-align: center;
+	color: #17202A ;
+	margin-bottom: 20px;
+
+}
+
+.full
+{
+	//background-color:#EC7063;
+	color: white;
+	font-size: 25px;
+	//height: 550px;
+	width:30%;
+	font-family:"Bell MT";
+	text-align:left;
+	margin-right: 35%;
+	margin-left: 35%;
+	//border:solid 2px red;
+}
+.form{
+	margin-left: 40px;
+	margin-right: 40px;
+	//margin-top: 20px;
+	//margin-bottom: 20px;
+	color: #17202A ;
+}
+.Username,.First_name,.Last_name,.Email_address,.Password,.Confirm_password
+{
+	width: 320px;
+	height: 25px;
+	border-radius: 5px;
+}
+.submit_btn
+{
+	color: white;
+	background-color: #4CAF50;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	margin-left: 20px;
+	border-color: #4CAF50;
+}
+.login_btn
+{
+	color: white;
+	border-color: #4CAF50;
+	background-color: #4CAF50;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	margin-left: 80px;
+}
